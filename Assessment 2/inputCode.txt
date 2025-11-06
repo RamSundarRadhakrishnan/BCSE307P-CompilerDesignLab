@@ -1,0 +1,5 @@
+int main {
+    int output = 0 ;
+    output = output + 32 ;
+    if ( output > 30 ) return 0 ;
+}

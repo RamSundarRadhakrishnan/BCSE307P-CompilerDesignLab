@@ -1,0 +1,10 @@
+Keywords:
+int main if return 
+Assignment Operator:
+=
+Arithmetic Operators:
++ 
+Relational Operators:
+> 
+Identifiers:
+output 
