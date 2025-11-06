@@ -1,0 +1,66 @@
+Keyword: int
+Identifier: main
+Delimiter: (
+Delimiter: )
+Delimiter: {
+Keyword: float
+Identifier: x
+Assignment Operator: =
+Number: 10
+Delimiter: ;
+Keyword: double
+Identifier: y
+Assignment Operator: =
+Number: 20
+Number: 5
+Delimiter: ;
+Keyword: if
+Delimiter: (
+Identifier: x
+Relational Operator: >=
+Identifier: y
+Delimiter: )
+Delimiter: {
+Identifier: x
+Arithmetic Operator: ++
+Delimiter: ;
+Identifier: y
+Arithmetic Operator: -
+Assignment Operator: =
+Number: 5
+Delimiter: ;
+Delimiter: }
+Keyword: else
+Delimiter: {
+Identifier: x
+Assignment Operator: =
+Identifier: x
+Arithmetic Operator: +
+Identifier: y
+Arithmetic Operator: *
+Number: 2
+Arithmetic Operator: /
+Number: 4
+Arithmetic Operator: %
+Number: 3
+Delimiter: ;
+Delimiter: }
+Keyword: while
+Delimiter: (
+Identifier: x
+Relational Operator: !=
+Number: 0
+Logical Operator: &&
+Identifier: y
+Relational Operator: <=
+Number: 100
+Delimiter: )
+Delimiter: {
+Identifier: x
+Arithmetic Operator: --
+Delimiter: ;
+Delimiter: }
+Keyword: return
+Number: 0
+Delimiter: ;
+Delimiter: }

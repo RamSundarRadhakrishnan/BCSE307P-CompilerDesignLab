@@ -1,0 +1,14 @@
+int main() {
+    float x = 10;
+    double y = 20.5;
+    if (x >= y) {
+        x++;
+        y -= 5;
+    } else {
+        x = x + y * 2 / 4 % 3;
+    }
+    while (x != 0 && y <= 100) {
+        x--;
+    }
+    return 0;
+}
